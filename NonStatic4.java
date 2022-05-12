@@ -6,7 +6,7 @@ public class NonStatic4 {
 	int z=	ns4.multi (9,30);
 	
 	System.out.println("The multiplication of two number is :" + z);
-		
+	System.out.println("All is done");	
 		
 	}
 	
